@@ -1,7 +1,0 @@
-Configuring base-orphans-0.6...
-Preprocessing library for base-orphans-0.6..
-Building library for base-orphans-0.6..
-[1 of 2] Compiling Data.Orphans     ( src/Data/Orphans.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.0.2/build/Data/Orphans.o )
-[2 of 2] Compiling Data.Orphans.Prelude ( src/Data/Orphans/Prelude.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.0.2/build/Data/Orphans/Prelude.o )
-Installing library in /home/lokelow/.stack/snapshots/x86_64-linux-nopie/nightly-2017-10-09/8.2.1/lib/x86_64-linux-ghc-8.2.1/base-orphans-0.6-9iPDLrUqQ5yHb9fb9OUZ9L
-Registering library for base-orphans-0.6..
