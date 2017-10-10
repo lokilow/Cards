@@ -1,0 +1,6 @@
+Configuring unique-0...
+Preprocessing library for unique-0..
+Building library for unique-0..
+[1 of 1] Compiling Control.Concurrent.Unique ( src/Control/Concurrent/Unique.hs, .stack-work/dist/x86_64-linux-nopie/Cabal-2.0.0.2/build/Control/Concurrent/Unique.o )
+Installing library in /home/lokelow/.stack/snapshots/x86_64-linux-nopie/nightly-2017-10-09/8.2.1/lib/x86_64-linux-ghc-8.2.1/unique-0-GYc9ruyW48cGTn2wj2JT38
+Registering library for unique-0..
