@@ -18,6 +18,8 @@ library
   exposed-modules:     Lib
                      , Data.Card
   build-depends:       base >= 4.7 && < 5
+                     , GLUT
+                     , OpenGL
   default-language:    Haskell2010
 
 executable Cards-exe
