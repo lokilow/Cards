@@ -1,5 +1,7 @@
 module Data.Card (standardDeck)
     where
+import Graphics.Rendering.OpenGL
+import Graphics.UI.GLUT
 
 data Suit = Clubs | Diamonds | Hearts | Spades
     deriving (Show, Eq, Ord, Enum)
@@ -14,5 +16,4 @@ type Deck = [Card]
 
 standardDeck :: Deck
 standardDeck = [(rank, suit) | rank <- [Two ..], suit <- [Clubs ..]]
-
 
