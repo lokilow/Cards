@@ -1,6 +1,5 @@
-module Lib
-    ( someFunc
-    ) where
-import Data.Card (standardDeck)
+module Lib where
+import Data.Card 
+
 someFunc :: IO ()
 someFunc = mapM_ print standardDeck
