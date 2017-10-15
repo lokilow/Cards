@@ -1,7 +1,5 @@
 module Data.Card (standardDeck, perfectShuffle, perfectCut)
     where
-import Graphics.Rendering.OpenGL
-import Graphics.UI.GLUT
 import Data.List (splitAt)
 
 data Suit = Clubs | Diamonds | Hearts | Spades

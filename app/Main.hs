@@ -2,7 +2,6 @@ module Main where
 
 import Lib
 import Text.Printf
-
 --Enumerated list of implemented games
 --TODO implement these games
 games = zip [0..] ["go fish", "war"]
